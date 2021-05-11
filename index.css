@@ -1,0 +1,40 @@
+body {
+	background-color: lightcyan;
+	text-align: justify;
+	color: black;
+}
+
+h2 {
+	text-align:center;
+	color:black;
+	background-color: turquoise; 
+	font-family: :schoolbell;
+}
+
+img {
+	width: 150px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table {
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+}
+
+p {
+	text-indent: 75px;
+	font-family: optima;
+	text-align: justify;
+}
+
+p {
+	text-indent: 75px;
+	font-family: optima;
+	text-align: justify;
+}
+
+
